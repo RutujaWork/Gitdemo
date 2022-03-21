@@ -24,6 +24,7 @@ public class stepDefination {
   @Given("^validate the browser$")
   public void validate_the_browser() throws Throwable {
 	  System.out.println("deciding the browser to open");
+	
   }
 
   @When("^Browser is triggered$")
